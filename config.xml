@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.html5express"
+    version   = "1.0.0">
+
+<name>Hechiceros Y Alta Magia</name>
+
+<description>
+App Oficial Hechiceros Y Alta Magia
+</description>
+
+<author href="https://hechicerosyaltamagia.com" email="ingmiguelangelgc@gmail.com">
+Mickdilon Design.
+</author>
+
+	<icon src="icono.png" />
+	
+	<icon src="icono_57x57.png" gap:platform="android" width="57" height="57" />
+    <icon src="icono_72x72.png" gap:platform="android" width="72" height="72" />
+    <icon src="icono_114x114.png" gap:platform="android" width="114" height="114" />
+    <icon src="icono_144x144.png" gap:platform="android" width="144" height="144" />
+	  
+</widget>
